@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 Learning: physics
+- 📝 Coding: matlab, python, $\latex$, ...
+
 <!--
 **Hl-W/Hl-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
